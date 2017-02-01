@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/09b0b4607f344adea181d57ea9a199e3)](https://www.codacy.com/app/Codacy/tslint?utm_source=github.com&utm_medium=referral&utm_content=qamine-test/tslint&utm_campaign=badger)
 [![NPM version](https://badge.fury.io/js/tslint.svg)](http://badge.fury.io/js/tslint)
 [![Downloads](http://img.shields.io/npm/dm/tslint.svg)](https://npmjs.org/package/tslint)
 [![Circle CI](https://circleci.com/gh/palantir/tslint.svg?style=svg)](https://circleci.com/gh/palantir/tslint)
